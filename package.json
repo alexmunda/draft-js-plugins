@@ -1,6 +1,6 @@
 {
   "name": "draft-js-plugins",
-  "version": "0.0.0",
+  "version": "2.3.4",
   "private": true,
   "description": "A Plugin Architecture on top of Draft.JS",
   "author": {
